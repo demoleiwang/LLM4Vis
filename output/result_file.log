@@ -1,0 +1,499 @@
+predctions_json: {'line chart': 0, 'scatter plot': 0, 'bar chart': 0.5, 'box plot': 0.5} line chart
+pred_answer: bar chart; box plot
+1 confusion:[[0, 0, 1, 1], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 0/100 = 0.0, true_false: 0
+
+predctions_json: {'line chart': 0.6, 'scatter plot': 0, 'bar chart': 0, 'box plot': 0.4} line chart
+pred_answer: box plot; line chart
+1 confusion:[[1, 0, 1, 2], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 1/100 = 0.01, true_false: 1
+
+predctions_json: {'line chart': 0.6, 'scatter plot': 0.1, 'bar chart': 0.1, 'box plot': 0.2} line chart
+pred_answer: box plot; line chart
+1 confusion:[[2, 0, 1, 3], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 2/100 = 0.02, true_false: 1
+
+predctions_json: {'line chart': 0.8, 'scatter plot': 0.1, 'bar chart': 0.05, 'box plot': 0.05} line chart
+pred_answer: scatter plot; line chart
+1 confusion:[[3, 1, 1, 3], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 3/100 = 0.03, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.3, 'bar chart': 0, 'box plot': 0.7} line chart
+pred_answer: scatter plot; box plot
+1 confusion:[[3, 2, 1, 4], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 3/100 = 0.03, true_false: 0
+
+predctions_json: {'line chart': None, 'scatter plot': None, 'bar chart': None, 'box plot': None} line chart
+pred_answer: bar chart; box plot
+1 confusion:[[3, 2, 2, 5], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 3/100 = 0.03, true_false: 0
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 0.6, 'box plot': 0.4} line chart
+pred_answer: box plot; bar chart
+1 confusion:[[3, 2, 3, 6], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 3/100 = 0.03, true_false: 0
+
+predctions_json: {'line chart': 0.6, 'scatter plot': 0.1, 'bar chart': 0.0, 'box plot': 0.3} line chart
+pred_answer: box plot; line chart
+1 confusion:[[4, 2, 3, 7], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 4/100 = 0.04, true_false: 1
+
+predctions_json: {'line chart': 0.2, 'scatter plot': 0.1, 'bar chart': 0.1, 'box plot': 0.6} line chart
+pred_answer: line chart; box plot
+1 confusion:[[5, 2, 3, 8], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 5/100 = 0.05, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.6, 'bar chart': 0, 'box plot': 0.4} line chart
+pred_answer: box plot; scatter plot
+1 confusion:[[5, 3, 3, 9], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 5/100 = 0.05, true_false: 0
+
+predctions_json: {'line chart': 0.4, 'scatter plot': 0.4, 'bar chart': 0, 'box plot': 0.2} line chart
+pred_answer: line chart; scatter plot
+1 confusion:[[6, 4, 3, 9], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 6/100 = 0.06, true_false: 1
+
+predctions_json: {'line chart': 0.8, 'scatter plot': 0.1, 'bar chart': 0.1, 'box plot': 0.1} line chart
+pred_answer: box plot; line chart
+1 confusion:[[7, 4, 3, 10], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 7/100 = 0.07, true_false: 1
+
+predctions_json: {'line chart': 0.4, 'scatter plot': 0.5, 'bar chart': 0, 'box plot': 0.1} line chart
+pred_answer: line chart; scatter plot
+1 confusion:[[8, 5, 3, 10], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 8/100 = 0.08, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.6, 'bar chart': 0.0, 'box plot': 0.4} line chart
+pred_answer: box plot; scatter plot
+1 confusion:[[8, 6, 3, 11], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 8/100 = 0.08, true_false: 0
+
+predctions_json: {'line chart': 0.333, 'scatter plot': 0.333, 'bar chart': 0, 'box plot': 0.333} line chart
+pred_answer: scatter plot; box plot
+1 confusion:[[8, 7, 3, 12], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 8/100 = 0.08, true_false: 0
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 0.1, 'box plot': 0.9} line chart
+pred_answer: bar chart; box plot
+1 confusion:[[8, 7, 4, 13], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 8/100 = 0.08, true_false: 0
+
+predctions_json: {'line chart': 0.7, 'scatter plot': 0.1, 'bar chart': 0.0, 'box plot': 0.2} line chart
+pred_answer: box plot; line chart
+1 confusion:[[9, 7, 4, 14], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 9/100 = 0.09, true_false: 1
+
+predctions_json: {'line chart': 1, 'scatter plot': 0, 'bar chart': 0, 'box plot': 0} line chart
+pred_answer: box plot; line chart
+1 confusion:[[10, 7, 4, 15], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 10/100 = 0.1, true_false: 1
+
+predctions_json: {'line chart': 0.6, 'scatter plot': 0.4, 'bar chart': 0.0, 'box plot': 0.0} line chart
+pred_answer: scatter plot; line chart
+1 confusion:[[11, 8, 4, 15], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 11/100 = 0.11, true_false: 1
+
+predctions_json: {'line chart': 0.6, 'scatter plot': 0.0, 'bar chart': 0.0, 'box plot': 0.4} line chart
+pred_answer: box plot; line chart
+1 confusion:[[12, 8, 4, 16], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 12/100 = 0.12, true_false: 1
+
+predctions_json: {'line chart': 1, 'scatter plot': 0, 'bar chart': 0, 'box plot': 0} line chart
+pred_answer: box plot; line chart
+1 confusion:[[13, 8, 4, 17], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 13/100 = 0.13, true_false: 1
+
+predctions_json: {'line chart': 0.2, 'scatter plot': 0.1, 'bar chart': 0.1, 'box plot': 0.6} line chart
+pred_answer: line chart; box plot
+1 confusion:[[14, 8, 4, 18], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 14/100 = 0.14, true_false: 1
+
+predctions_json: {'line chart': 0.4, 'scatter plot': 0.3, 'bar chart': 0, 'box plot': 0.3} line chart
+pred_answer: box plot; line chart
+1 confusion:[[15, 8, 4, 19], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 15/100 = 0.15, true_false: 1
+
+predctions_json: {'line chart': 0.6, 'scatter plot': 0.1, 'bar chart': 0.0, 'box plot': 0.3} line chart
+pred_answer: box plot; line chart
+1 confusion:[[16, 8, 4, 20], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 16/100 = 0.16, true_false: 1
+
+predctions_json: {'line chart': 0.1, 'scatter plot': 0.5, 'bar chart': 0.1, 'box plot': 0.3} line chart
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 16/100 = 0.16, true_false: 0
+
+predctions_json: {'line chart': 0.4, 'scatter plot': 0.4, 'bar chart': 0, 'box plot': 0.2} scatter plot
+pred_answer: line chart; scatter plot
+1 confusion:[[16, 9, 4, 21], [1, 1, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 17/100 = 0.17, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0, 'bar chart': 0, 'box plot': 0} scatter plot
+pred_answer: bar chart; box plot
+1 confusion:[[16, 9, 4, 21], [1, 1, 1, 1], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 17/100 = 0.17, true_false: 0
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.7, 'bar chart': 0, 'box plot': 0.3} scatter plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [1, 2, 1, 2], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 18/100 = 0.18, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.6, 'bar chart': 0, 'box plot': 0.4} scatter plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [1, 3, 1, 3], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 19/100 = 0.19, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.6, 'bar chart': 0.0, 'box plot': 0.4} scatter plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [1, 4, 1, 4], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 20/100 = 0.2, true_false: 1
+
+predctions_json: {'line chart': 0.1, 'scatter plot': 0.6, 'bar chart': 0.1, 'box plot': 0.2} scatter plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [1, 5, 1, 5], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 21/100 = 0.21, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.7, 'bar chart': 0, 'box plot': 0.3} scatter plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [1, 6, 1, 6], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 22/100 = 0.22, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.6, 'bar chart': 0, 'box plot': 0.4} scatter plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [1, 7, 1, 7], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 23/100 = 0.23, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.5, 'bar chart': 0.0, 'box plot': 0.5} scatter plot
+pred_answer: scatter plot; box plot
+1 confusion:[[16, 9, 4, 21], [1, 8, 1, 8], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 24/100 = 0.24, true_false: 1
+
+predctions_json: {'line chart': 0.3, 'scatter plot': 0.5, 'bar chart': 0, 'box plot': 0.2} scatter plot
+pred_answer: line chart; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 9, 1, 8], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 25/100 = 0.25, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.5, 'bar chart': 0, 'box plot': 0.5} scatter plot
+pred_answer: scatter plot; box plot
+1 confusion:[[16, 9, 4, 21], [2, 10, 1, 9], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 26/100 = 0.26, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.9, 'bar chart': 0, 'box plot': 0.1} scatter plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 11, 1, 10], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 27/100 = 0.27, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.6, 'bar chart': 0.0, 'box plot': 0.4} scatter plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 12, 1, 11], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 28/100 = 0.28, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0, 'bar chart': 0, 'box plot': 0} scatter plot
+pred_answer: bar chart; box plot
+1 confusion:[[16, 9, 4, 21], [2, 12, 2, 12], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 28/100 = 0.28, true_false: 0
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.6, 'bar chart': 0, 'box plot': 0.4} scatter plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 13, 2, 13], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 29/100 = 0.29, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.6, 'bar chart': 0, 'box plot': 0.4} scatter plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 14, 2, 14], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 30/100 = 0.3, true_false: 1
+
+predctions_json: {'line chart': 0.1, 'scatter plot': 0.4, 'bar chart': 0.1, 'box plot': 0.4} scatter plot
+pred_answer: scatter plot; box plot
+1 confusion:[[16, 9, 4, 21], [2, 15, 2, 15], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 31/100 = 0.31, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.5, 'bar chart': 0.0, 'box plot': 0.5} scatter plot
+pred_answer: scatter plot; box plot
+1 confusion:[[16, 9, 4, 21], [2, 16, 2, 16], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 32/100 = 0.32, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 1, 'bar chart': 0, 'box plot': 0} scatter plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 17, 2, 17], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 33/100 = 0.33, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.4, 'bar chart': 0, 'box plot': 0.6} scatter plot
+pred_answer: scatter plot; box plot
+1 confusion:[[16, 9, 4, 21], [2, 18, 2, 18], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 34/100 = 0.34, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0, 'bar chart': 0, 'box plot': 1} scatter plot
+pred_answer: bar chart; box plot
+1 confusion:[[16, 9, 4, 21], [2, 18, 3, 19], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 34/100 = 0.34, true_false: 0
+
+predctions_json: {'line chart': 0, 'scatter plot': 1, 'bar chart': 0, 'box plot': 0} scatter plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 19, 3, 20], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 35/100 = 0.35, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.5, 'bar chart': 0, 'box plot': 0.5} scatter plot
+pred_answer: scatter plot; box plot
+1 confusion:[[16, 9, 4, 21], [2, 20, 3, 21], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 36/100 = 0.36, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.6, 'bar chart': 0, 'box plot': 0.4} scatter plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 21, 3, 22], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 37/100 = 0.37, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.6, 'bar chart': 0, 'box plot': 0.4} scatter plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 0, 0, 0], [0, 0, 0, 0]]
+Hit Ratio: 38/100 = 0.38, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.4, 'bar chart': 0.0, 'box plot': 0.6} bar chart
+pred_answer: scatter plot; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 1, 0, 1], [0, 0, 0, 0]]
+Hit Ratio: 38/100 = 0.38, true_false: 0
+
+predctions_json: {'line chart': 0, 'scatter plot': 0, 'bar chart': 0.5, 'box plot': 0.5} bar chart
+pred_answer: bar chart; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 1, 1, 2], [0, 0, 0, 0]]
+Hit Ratio: 39/100 = 0.39, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0, 'bar chart': 0.5, 'box plot': 0.5} bar chart
+pred_answer: bar chart; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 1, 2, 3], [0, 0, 0, 0]]
+Hit Ratio: 40/100 = 0.4, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 0.6, 'box plot': 0.4} bar chart
+pred_answer: box plot; bar chart
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 1, 3, 4], [0, 0, 0, 0]]
+Hit Ratio: 41/100 = 0.41, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0, 'bar chart': 0.5, 'box plot': 0.5} bar chart
+pred_answer: bar chart; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 1, 4, 5], [0, 0, 0, 0]]
+Hit Ratio: 42/100 = 0.42, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 1, 'bar chart': 0, 'box plot': 0} bar chart
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 2, 4, 6], [0, 0, 0, 0]]
+Hit Ratio: 42/100 = 0.42, true_false: 0
+
+predctions_json: {'line chart': 0.1, 'scatter plot': 0.1, 'bar chart': 0.8, 'box plot': 0.0} bar chart
+pred_answer: scatter plot; bar chart
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 3, 5, 6], [0, 0, 0, 0]]
+Hit Ratio: 43/100 = 0.43, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 1.0, 'box plot': 0.0} bar chart
+pred_answer: box plot; bar chart
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 3, 6, 7], [0, 0, 0, 0]]
+Hit Ratio: 44/100 = 0.44, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.2, 'bar chart': 0.6, 'box plot': 0.2} bar chart
+pred_answer: box plot; bar chart
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 3, 7, 8], [0, 0, 0, 0]]
+Hit Ratio: 45/100 = 0.45, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0, 'bar chart': 0.5, 'box plot': 0.5} bar chart
+pred_answer: bar chart; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 3, 8, 9], [0, 0, 0, 0]]
+Hit Ratio: 46/100 = 0.46, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0, 'bar chart': 0.5, 'box plot': 0.5} bar chart
+pred_answer: bar chart; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 3, 9, 10], [0, 0, 0, 0]]
+Hit Ratio: 47/100 = 0.47, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.6, 'bar chart': 0.0, 'box plot': 0.4} bar chart
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 4, 9, 11], [0, 0, 0, 0]]
+Hit Ratio: 47/100 = 0.47, true_false: 0
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.6, 'bar chart': 0, 'box plot': 0.4} bar chart
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 5, 9, 12], [0, 0, 0, 0]]
+Hit Ratio: 47/100 = 0.47, true_false: 0
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 1.0, 'box plot': 0.0} bar chart
+pred_answer: box plot; bar chart
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 5, 10, 13], [0, 0, 0, 0]]
+Hit Ratio: 48/100 = 0.48, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0, 'bar chart': 0.5, 'box plot': 0.5} bar chart
+pred_answer: bar chart; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 5, 11, 14], [0, 0, 0, 0]]
+Hit Ratio: 49/100 = 0.49, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0, 'bar chart': 0, 'box plot': 0} bar chart
+pred_answer: bar chart; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 5, 12, 15], [0, 0, 0, 0]]
+Hit Ratio: 50/100 = 0.5, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 1.0, 'box plot': 0.0} bar chart
+pred_answer: box plot; bar chart
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 5, 13, 16], [0, 0, 0, 0]]
+Hit Ratio: 51/100 = 0.51, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 0.8, 'box plot': 0.2} bar chart
+pred_answer: box plot; bar chart
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 5, 14, 17], [0, 0, 0, 0]]
+Hit Ratio: 52/100 = 0.52, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 1.0, 'box plot': 0.0} bar chart
+pred_answer: box plot; bar chart
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 5, 15, 18], [0, 0, 0, 0]]
+Hit Ratio: 53/100 = 0.53, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 1.0, 'box plot': 0.0} bar chart
+pred_answer: box plot; bar chart
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 5, 16, 19], [0, 0, 0, 0]]
+Hit Ratio: 54/100 = 0.54, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 0.6, 'box plot': 0.4} bar chart
+pred_answer: box plot; bar chart
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 5, 17, 20], [0, 0, 0, 0]]
+Hit Ratio: 55/100 = 0.55, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 0.1, 'box plot': 0.9} bar chart
+pred_answer: bar chart; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 5, 18, 21], [0, 0, 0, 0]]
+Hit Ratio: 56/100 = 0.56, true_false: 1
+
+predctions_json: {'line chart': 0.1, 'scatter plot': 0.4, 'bar chart': 0.1, 'box plot': 0.4} bar chart
+pred_answer: scatter plot; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 18, 22], [0, 0, 0, 0]]
+Hit Ratio: 56/100 = 0.56, true_false: 0
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 1.0, 'box plot': 0.0} bar chart
+pred_answer: box plot; bar chart
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 19, 23], [0, 0, 0, 0]]
+Hit Ratio: 57/100 = 0.57, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0, 'bar chart': 0.5, 'box plot': 0.5} bar chart
+pred_answer: bar chart; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [0, 0, 0, 0]]
+Hit Ratio: 58/100 = 0.58, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.3, 'bar chart': 0, 'box plot': 0.7} box plot
+pred_answer: scatter plot; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [0, 1, 0, 1]]
+Hit Ratio: 59/100 = 0.59, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.1, 'bar chart': 0, 'box plot': 0.9} box plot
+pred_answer: scatter plot; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [0, 2, 0, 2]]
+Hit Ratio: 60/100 = 0.6, true_false: 1
+
+predctions_json: {'line chart': 0.4, 'scatter plot': 0.8, 'bar chart': 0, 'box plot': 0.2} box plot
+pred_answer: line chart; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 3, 0, 2]]
+Hit Ratio: 60/100 = 0.6, true_false: 0
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.6, 'bar chart': 0, 'box plot': 0.4} box plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 4, 0, 3]]
+Hit Ratio: 61/100 = 0.61, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.3, 'bar chart': 0, 'box plot': 0.7} box plot
+pred_answer: scatter plot; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 5, 0, 4]]
+Hit Ratio: 62/100 = 0.62, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 0.6, 'box plot': 0.0} box plot
+pred_answer: box plot; bar chart
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 5, 1, 5]]
+Hit Ratio: 63/100 = 0.63, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.1, 'bar chart': 0, 'box plot': 0} box plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 6, 1, 6]]
+Hit Ratio: 64/100 = 0.64, true_false: 1
+
+predctions_json: {'line chart': 0.1, 'scatter plot': 0.1, 'bar chart': 0.1, 'box plot': 0.7} box plot
+pred_answer: bar chart; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 6, 2, 7]]
+Hit Ratio: 65/100 = 0.65, true_false: 1
+
+predctions_json: {'line chart': 0.1, 'scatter plot': 0.6, 'bar chart': 0.1, 'box plot': 0.2} box plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 7, 2, 8]]
+Hit Ratio: 66/100 = 0.66, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.4, 'bar chart': 0, 'box plot': 0.6} box plot
+pred_answer: scatter plot; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 8, 2, 9]]
+Hit Ratio: 67/100 = 0.67, true_false: 1
+
+predctions_json: {'line chart': 0.2, 'scatter plot': 0.4, 'bar chart': 0, 'box plot': 0.4} box plot
+pred_answer: scatter plot; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 9, 2, 10]]
+Hit Ratio: 68/100 = 0.68, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 0.6, 'box plot': 0.0} box plot
+pred_answer: box plot; bar chart
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 9, 3, 11]]
+Hit Ratio: 69/100 = 0.69, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 1, 'bar chart': 0, 'box plot': 0} box plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 10, 3, 12]]
+Hit Ratio: 70/100 = 0.7, true_false: 1
+
+predctions_json: {'line chart': 0.1, 'scatter plot': 0.6, 'bar chart': 0.1, 'box plot': 0.2} box plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 11, 3, 13]]
+Hit Ratio: 71/100 = 0.71, true_false: 1
+
+predctions_json: {'line chart': 0.1, 'scatter plot': 0.6, 'bar chart': 0.1, 'box plot': 0.2} box plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 12, 3, 14]]
+Hit Ratio: 72/100 = 0.72, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.7, 'bar chart': 0, 'box plot': 0.3} box plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 13, 3, 15]]
+Hit Ratio: 73/100 = 0.73, true_false: 1
+
+predctions_json: {'line chart': 0.1, 'scatter plot': 0.6, 'bar chart': 0.1, 'box plot': 0.2} box plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 14, 3, 16]]
+Hit Ratio: 74/100 = 0.74, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 0.6, 'box plot': 0.4} box plot
+pred_answer: box plot; bar chart
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 14, 4, 17]]
+Hit Ratio: 75/100 = 0.75, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 0.6, 'box plot': 0.4} box plot
+pred_answer: box plot; bar chart
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 14, 5, 18]]
+Hit Ratio: 76/100 = 0.76, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.6, 'bar chart': 0.0, 'box plot': 0.4} box plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 15, 5, 19]]
+Hit Ratio: 77/100 = 0.77, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0, 'bar chart': 0.5, 'box plot': 0.5} box plot
+pred_answer: bar chart; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 15, 6, 20]]
+Hit Ratio: 78/100 = 0.78, true_false: 1
+
+predctions_json: {'line chart': 0, 'scatter plot': 0.3, 'bar chart': 0, 'box plot': 0.7} box plot
+pred_answer: scatter plot; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 16, 6, 21]]
+Hit Ratio: 79/100 = 0.79, true_false: 1
+
+predctions_json: {'line chart': 0.2, 'scatter plot': 0.5, 'bar chart': 0.1, 'box plot': 0.2} box plot
+pred_answer: box plot; scatter plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 17, 6, 22]]
+Hit Ratio: 80/100 = 0.8, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 0.8, 'box plot': 0.2} box plot
+pred_answer: box plot; bar chart
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 17, 7, 23]]
+Hit Ratio: 81/100 = 0.81, true_false: 1
+
+predctions_json: {'line chart': 0.0, 'scatter plot': 0.0, 'bar chart': 0.4, 'box plot': 0.6} box plot
+pred_answer: bar chart; box plot
+1 confusion:[[16, 9, 4, 21], [2, 22, 3, 23], [0, 6, 20, 24], [1, 17, 8, 24]]
+Hit Ratio: 82/100 = 0.82, true_false: 1
