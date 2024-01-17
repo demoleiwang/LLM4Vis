@@ -1,6 +1,8 @@
 # LLM4Vis
 Code for Our EMNLP (Industry) 2023 paper "LLM4Vis: Explainable Visualization Recommendation using ChatGPT"
 
+I have removed the dataset from the repository due to restrictions on sharing the dataset publicly. Please email me to obtain the dataset.
+
 ### Run in-context learning for visualization recommendation.
 
 Unzip the dataset file example2_nodiscrization_3.csv.zip.
